@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "328241088096",
+    "project_id": "delight-dc5ae",
+    "storage_bucket": "delight-dc5ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328241088096:android:0078e0b007a46e51052505",
+        "android_client_info": {
+          "package_name": "com.example.delight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328241088096-q6ptc84t37bdaiaev9or41gk1i5f8f8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delight",
+            "certificate_hash": "e6b72e3b547163ab26cd971b92ad86cc75d04b26"
+          }
+        },
+        {
+          "client_id": "328241088096-kdol8cqrgl0fnkdj23cn6os19vrt2ejc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMEquxz9X2ESqrp6SJ6nz8aDfNYjtLWTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328241088096-kdol8cqrgl0fnkdj23cn6os19vrt2ejc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328241088096-oiqrc22rvb3lausq64n69hhuq6chbkbk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.delight"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328241088096:android:66c456c12b34be68052505",
+        "android_client_info": {
+          "package_name": "com.tapps.delight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328241088096-83ufghhvac6fl1v7lpou35h6qstksnhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapps.delight",
+            "certificate_hash": "e6b72e3b547163ab26cd971b92ad86cc75d04b26"
+          }
+        },
+        {
+          "client_id": "328241088096-kdol8cqrgl0fnkdj23cn6os19vrt2ejc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMEquxz9X2ESqrp6SJ6nz8aDfNYjtLWTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328241088096-kdol8cqrgl0fnkdj23cn6os19vrt2ejc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328241088096-oiqrc22rvb3lausq64n69hhuq6chbkbk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.delight"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
